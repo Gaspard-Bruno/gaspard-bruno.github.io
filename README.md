@@ -1,2 +1,2 @@
-# gaspardbruno.github.io
+# gaspard-bruno.github.io
 Gaspard+Bruno Engineering
